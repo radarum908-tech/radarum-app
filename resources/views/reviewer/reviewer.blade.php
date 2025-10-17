@@ -7,8 +7,6 @@
   <title>Reviewer | RADAR UM</title>
   <link href="assets/img/radar.png" rel="icon">
   <link href="assets/img/radar.png" rel="radar">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/reviewer.css">
 
   <!-- Vendor CSS Files -->
